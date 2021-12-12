@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Music creationTime="12 Dec 2021 11:07:36" lastModifiedTime="1 Jan 1970 8:00:00">
+  <TempoTrack>
+    <Tempo startBeat="0.0" bpm="20.0"/>
+    <Tempo startBeat="12.0" bpm="20.0"/>
+    <TimeSig startBeat="0.0" sigBeat="4" sigBeatsType="16"/>
+  </TempoTrack>
+  <PitchTrack>
+    <Pitch startBeat="0.0" pitch="60"/>
+  </PitchTrack>
+  <MarkerTrack id="1015" name="&#26631;&#35760;"/>
+  <ChordTrack name="&#26609;&#24335;&#21644;&#24358;&#36827;&#34892;" id="1069"/>
+  <MidiTrack id="1020" name="Cantus">
+    <MidiBlock name="Cantus" length="24.0" id="1079" startBeat="0.0">
+      <Note pitch="74" beat="4.0" length="0.25" velocity="69"/>
+      <Note pitch="72" beat="4.5" length="0.1645833333333329" velocity="69"/>
+      <Note pitch="71" beat="4.664583333333333" length="0.1677083333333336"
+            velocity="68"/>
+      <Note pitch="69" beat="4.832291666666666" length="0.15625" velocity="71"/>
+      <Note pitch="67" beat="5.0" length="0.25" velocity="71"/>
+      <Note pitch="71" beat="5.5" length="0.5" velocity="84"/>
+      <Note pitch="63" beat="6.0" length="0.375" velocity="61"/>
+      <Note pitch="64" beat="6.375" length="0.125" velocity="78"/>
+      <Note pitch="66" beat="6.5" length="0.375" velocity="79"/>
+      <Note pitch="69" beat="6.875" length="0.125" velocity="83"/>
+      <Note pitch="62" beat="7.0" length="0.5" velocity="66"/>
+      <Note pitch="64" beat="8.375" length="0.125" velocity="68"/>
+      <Note pitch="66" beat="8.5" length="0.25" velocity="83"/>
+      <Note pitch="66" beat="8.75" length="0.25" velocity="79"/>
+      <Note pitch="67" beat="9.0" length="0.25" velocity="86"/>
+      <Note pitch="69" beat="9.25" length="0.25" velocity="84"/>
+      <Note pitch="71" beat="9.5" length="0.75" velocity="80"/>
+      <Note pitch="71" beat="10.25" length="0.25" velocity="78"/>
+      <Note pitch="72" beat="10.5" length="0.25" velocity="80"/>
+      <Note pitch="73" beat="10.75" length="0.25" velocity="83"/>
+      <Note pitch="74" beat="11.0" length="0.5083333333333329" velocity="77"/>
+      <Note pitch="67" beat="11.5" length="0.4729166666666664" velocity="65"/>
+      <Note pitch="68" beat="12.75" length="0.25" velocity="69"/>
+      <Note pitch="76" beat="13.0" length="0.25" velocity="87"/>
+      <Note pitch="76" beat="13.25" length="0.25" velocity="76"/>
+      <Note pitch="74" beat="13.5" length="0.25" velocity="72"/>
+      <Note pitch="74" beat="13.75" length="0.25" velocity="74"/>
+      <Note pitch="73" beat="14.0" length="0.25" velocity="71"/>
+      <Note pitch="73" beat="14.25" length="0.25" velocity="75"/>
+      <Note pitch="72" beat="14.5" length="0.5" velocity="75"/>
+      <Note pitch="74" beat="15.375" length="0.125" velocity="68"/>
+      <Note pitch="66" beat="15.5" length="0.5" velocity="60"/>
+      <Note pitch="66" beat="16.375" length="0.125" velocity="68"/>
+      <Note pitch="66" beat="16.5" length="0.375" velocity="78"/>
+      <Note pitch="70" beat="16.875" length="0.125" velocity="84"/>
+      <Note pitch="71" beat="17.0" length="0.375" velocity="80"/>
+      <Note pitch="71" beat="17.375" length="0.125" velocity="77"/>
+      <Note pitch="73" beat="17.5" length="0.25" velocity="82"/>
+      <Note pitch="74" beat="17.75" length="0.25" velocity="79"/>
+      <Note pitch="66" beat="18.0" length="0.75" velocity="61"/>
+      <Note pitch="68" beat="18.75" length="0.25" velocity="82"/>
+      <Note pitch="70" beat="19.0" length="0.375" velocity="78"/>
+      <Note pitch="73" beat="19.375" length="0.125" velocity="88"/>
+      <Note pitch="73" beat="19.5" length="1.0" velocity="81"/>
+      <Note pitch="74" beat="24.0" length="0.25" velocity="67"/>
+      <Note pitch="72" beat="24.5" length="0.1645833333333329" velocity="69"/>
+      <Note pitch="71" beat="24.66458333333333" length="0.1677083333333336"
+            velocity="73"/>
+      <Note pitch="69" beat="24.83229166666667" length="0.15625" velocity="74"/>
+      <Note pitch="67" beat="25.0" length="0.5" velocity="70"/>
+      <Note pitch="67" beat="25.75" length="0.25" velocity="70"/>
+      <Note pitch="68" beat="26.0" length="0.25" velocity="81"/>
+      <Note pitch="71" beat="26.25" length="0.25" velocity="85"/>
+      <Note pitch="77" beat="26.5" length="0.25" velocity="88"/>
+      <Note pitch="77" beat="26.75" length="0.25" velocity="78"/>
+      <Note pitch="77" beat="27.0" length="0.5" velocity="74"/>
+      <Note pitch="68" beat="27.5" length="0.5" velocity="54"/>
+      <Note pitch="76" beat="28.25" length="0.25" velocity="72"/>
+      <Note pitch="76" beat="28.5" length="0.25" velocity="78"/>
+      <Note pitch="76" beat="28.75" length="0.25" velocity="78"/>
+      <Note pitch="75" beat="29.0" length="0.25" velocity="68"/>
+      <Note pitch="67" beat="29.25" length="0.25" velocity="58"/>
+      <Note pitch="71" beat="29.5" length="0.75" velocity="83"/>
+      <Note pitch="74" beat="30.25" length="0.25" velocity="85"/>
+      <Note pitch="71" beat="30.5" length="0.375" velocity="73"/>
+      <Note pitch="69" beat="30.875" length="0.125" velocity="71"/>
+      <Note pitch="69" beat="31.0" length="0.5" velocity="78"/>
+      <Note pitch="67" beat="31.5" length="0.5" velocity="69"/>
+    </MidiBlock>
+  </MidiTrack>
+  <MidiTrack id="1082" name="Piano">
+    <MidiBlock name="Piano" length="29.8125" id="1099" startBeat="0.0">
+      <Note pitch="72" beat="0.0" length="0.5" velocity="60"/>
+      <Note pitch="50" beat="0.0" length="0.25" velocity="53"/>
+      <Note pitch="54" beat="0.0" length="0.25" velocity="53"/>
+      <Note pitch="62" beat="0.0" length="0.25" velocity="53"/>
+      <Note pitch="51" beat="0.375" length="0.625" velocity="58"/>
+      <Note pitch="54" beat="0.375" length="0.625" velocity="58"/>
+      <Note pitch="63" beat="0.375" length="0.625" velocity="58"/>
+      <Note pitch="69" beat="0.5" length="0.1645833333333333" velocity="57"/>
+      <Note pitch="70" beat="0.6645833333333333" length="0.1677083333333333"
+            velocity="72"/>
+      <Note pitch="71" beat="0.8322916666666667" length="0.15625" velocity="72"/>
+      <Note pitch="72" beat="1.0" length="0.5" velocity="75"/>
+      <Note pitch="51" beat="1.0" length="0.25" velocity="69"/>
+      <Note pitch="54" beat="1.0" length="0.25" velocity="69"/>
+      <Note pitch="63" beat="1.0" length="0.25" velocity="69"/>
+      <Note pitch="52" beat="1.375" length="0.625" velocity="67"/>
+      <Note pitch="55" beat="1.375" length="0.625" velocity="67"/>
+      <Note pitch="64" beat="1.375" length="0.625" velocity="67"/>
+      <Note pitch="69" beat="1.5" length="0.1645833333333333" velocity="70"/>
+      <Note pitch="68" beat="1.664583333333333" length="0.1677083333333333"
+            velocity="70"/>
+      <Note pitch="71" beat="1.832291666666667" length="0.15625" velocity="86"/>
+      <Note pitch="72" beat="2.0" length="0.5" velocity="81"/>
+      <Note pitch="52" beat="2.0" length="0.25" velocity="77"/>
+      <Note pitch="56" beat="2.0" length="0.25" velocity="77"/>
+      <Note pitch="64" beat="2.0" length="0.25" velocity="77"/>
+      <Note pitch="53" beat="2.375" length="0.625" velocity="71"/>
+      <Note pitch="57" beat="2.375" length="0.625" velocity="71"/>
+      <Note pitch="65" beat="2.375" length="0.625" velocity="71"/>
+      <Note pitch="69" beat="2.5" length="0.1645833333333333" velocity="72"/>
+      <Note pitch="70" beat="2.664583333333333" length="0.1677083333333331"
+            velocity="83"/>
+      <Note pitch="71" beat="2.832291666666666" length="0.15625" velocity="87"/>
+      <Note pitch="72" beat="3.0" length="0.1645833333333333" velocity="90"/>
+      <Note pitch="54" beat="3.0" length="0.25" velocity="88"/>
+      <Note pitch="62" beat="3.0" length="0.25" velocity="88"/>
+      <Note pitch="66" beat="3.0" length="0.25" velocity="88"/>
+      <Note pitch="69" beat="3.164583333333333" length="0.1677083333333331"
+            velocity="75"/>
+      <Note pitch="70" beat="3.332291666666666" length="0.15625" velocity="83"/>
+      <Note pitch="71" beat="3.5" length="0.1645833333333333" velocity="80"/>
+      <Note pitch="72" beat="3.664583333333333" length="0.1677083333333331"
+            velocity="77"/>
+      <Note pitch="73" beat="3.832291666666666" length="0.1479166666666667"
+            velocity="78"/>
+      <Note pitch="74" beat="4.0" length="0.5" velocity="78"/>
+      <Note pitch="43" beat="4.0" length="0.25" velocity="59"/>
+      <Note pitch="59" beat="4.0" length="0.25" velocity="59"/>
+      <Note pitch="43" beat="4.375" length="0.125" velocity="63"/>
+      <Note pitch="59" beat="4.375" length="0.125" velocity="63"/>
+      <Note pitch="72" beat="4.5" length="0.1645833333333329" velocity="69"/>
+      <Note pitch="50" beat="4.5" length="0.4729166666666664" velocity="63"/>
+      <Note pitch="71" beat="4.664583333333333" length="0.1677083333333336"
+            velocity="65"/>
+      <Note pitch="69" beat="4.832291666666666" length="0.15625" velocity="67"/>
+      <Note pitch="67" beat="5.0" length="0.25" velocity="68"/>
+      <Note pitch="43" beat="5.0" length="0.25" velocity="79"/>
+      <Note pitch="59" beat="5.0" length="0.25" velocity="79"/>
+      <Note pitch="71" beat="5.375" length="0.125" velocity="67"/>
+      <Note pitch="43" beat="5.375" length="0.5" velocity="65"/>
+      <Note pitch="59" beat="5.375" length="0.5" velocity="65"/>
+      <Note pitch="63" beat="5.5" length="2.375" velocity="55"/>
+      <Note pitch="47" beat="5.875" length="0.125" velocity="62"/>
+      <Note pitch="62" beat="6.0" length="0.375" velocity="56"/>
+      <Note pitch="48" beat="6.0" length="0.234375" velocity="68"/>
+      <Note pitch="67" beat="6.375" length="0.125" velocity="61"/>
+      <Note pitch="66" beat="6.5" length="0.3552083333333336" velocity="52"/>
+      <Note pitch="60" beat="6.5" length="0.234375" velocity="66"/>
+      <Note pitch="38" beat="6.5" length="0.25" velocity="61"/>
+      <Note pitch="50" beat="6.5" length="0.25" velocity="61"/>
+      <Note pitch="72" beat="6.875" length="0.125" velocity="67"/>
+      <Note pitch="79" beat="6.875" length="0.125" velocity="67"/>
+      <Note pitch="71" beat="7.0" length="0.234375" velocity="47"/>
+      <Note pitch="43" beat="7.0" length="0.25" velocity="66"/>
+      <Note pitch="59" beat="7.0" length="0.25" velocity="66"/>
+      <Note pitch="74" beat="7.375" length="0.125" velocity="54"/>
+      <Note pitch="43" beat="7.375" length="0.5" velocity="67"/>
+      <Note pitch="59" beat="7.375" length="0.5" velocity="67"/>
+      <Note pitch="62" beat="7.5" length="0.3552083333333336" velocity="41"/>
+      <Note pitch="67" beat="7.875" length="0.125" velocity="79"/>
+      <Note pitch="47" beat="7.875" length="0.125" velocity="63"/>
+      <Note pitch="64" beat="8.0" length="0.234375" velocity="69"/>
+      <Note pitch="48" beat="8.0" length="0.234375" velocity="70"/>
+      <Note pitch="60" beat="8.5" length="0.25" velocity="71"/>
+      <Note pitch="66" beat="8.5" length="0.25" velocity="71"/>
+      <Note pitch="50" beat="8.5" length="0.25" velocity="71"/>
+      <Note pitch="67" beat="9.0" length="0.890625" velocity="77"/>
+      <Note pitch="59" beat="9.0" length="1.898958333333333" velocity="75"/>
+      <Note pitch="52" beat="9.0" length="0.890625" velocity="77"/>
+      <Note pitch="66" beat="9.875" length="0.1177083333333329" velocity="56"/>
+      <Note pitch="74" beat="9.875" length="0.1177083333333329" velocity="56"/>
+      <Note pitch="54" beat="9.875" length="0.125" velocity="47"/>
+      <Note pitch="65" beat="10.0" length="1.375" velocity="31"/>
+      <Note pitch="55" beat="10.0" length="0.9489583333333336" velocity="42"/>
+      <Note pitch="73" beat="11.375" length="0.125" velocity="46"/>
+      <Note pitch="74" beat="11.5" length="0.3552083333333336" velocity="43"/>
+      <Note pitch="65" beat="11.5" length="0.4729166666666664" velocity="68"/>
+      <Note pitch="47" beat="11.5" length="0.5" velocity="36"/>
+      <Note pitch="55" beat="11.5" length="0.5" velocity="36"/>
+      <Note pitch="74" beat="11.875" length="0.125" velocity="39"/>
+      <Note pitch="76" beat="12.0" length="0.4802083333333336" velocity="64"/>
+      <Note pitch="48" beat="12.0" length="0.25" velocity="72"/>
+      <Note pitch="64" beat="12.0" length="0.25" velocity="72"/>
+      <Note pitch="48" beat="12.375" length="0.125" velocity="54"/>
+      <Note pitch="64" beat="12.375" length="0.125" velocity="54"/>
+      <Note pitch="74" beat="12.5" length="0.1645833333333329" velocity="60"/>
+      <Note pitch="56" beat="12.5" length="0.4729166666666664" velocity="54"/>
+      <Note pitch="72" beat="12.66458333333333" length="0.1677083333333336"
+            velocity="55"/>
+      <Note pitch="71" beat="12.83229166666667" length="0.1677083333333336"
+            velocity="56"/>
+      <Note pitch="70" beat="13.0" length="0.234375" velocity="60"/>
+      <Note pitch="48" beat="13.0" length="0.25" velocity="75"/>
+      <Note pitch="64" beat="13.0" length="0.25" velocity="75"/>
+      <Note pitch="74" beat="13.375" length="0.125" velocity="58"/>
+      <Note pitch="48" beat="13.375" length="0.5" velocity="58"/>
+      <Note pitch="64" beat="13.375" length="0.5" velocity="58"/>
+      <Note pitch="66" beat="13.5" length="0.5083333333333329" velocity="43"/>
+      <Note pitch="57" beat="13.875" length="0.125" velocity="61"/>
+      <Note pitch="67" beat="14.0" length="0.234375" velocity="60"/>
+      <Note pitch="58" beat="14.0" length="0.4729166666666664" velocity="59"/>
+      <Note pitch="70" beat="14.375" length="0.125" velocity="56"/>
+      <Note pitch="69" beat="14.5" length="0.234375" velocity="61"/>
+      <Note pitch="54" beat="14.75" length="0.25" velocity="56"/>
+      <Note pitch="63" beat="14.75" length="0.25" velocity="56"/>
+      <Note pitch="72" beat="14.875" length="0.125" velocity="54"/>
+      <Note pitch="70" beat="15.0" length="0.234375" velocity="54"/>
+      <Note pitch="55" beat="15.0" length="0.25" velocity="60"/>
+      <Note pitch="64" beat="15.0" length="0.25" velocity="60"/>
+      <Note pitch="74" beat="15.375" length="0.125" velocity="57"/>
+      <Note pitch="66" beat="15.5" length="0.828125" velocity="46"/>
+      <Note pitch="60" beat="15.875" length="0.125" velocity="55"/>
+      <Note pitch="63" beat="15.875" length="0.125" velocity="55"/>
+      <Note pitch="60" beat="16.0" length="0.25" velocity="64"/>
+      <Note pitch="64" beat="16.0" length="0.25" velocity="64"/>
+      <Note pitch="66" beat="16.375" length="0.125" velocity="59"/>
+      <Note pitch="64" beat="16.5" length="0.375" velocity="67"/>
+      <Note pitch="68" beat="16.5" length="0.375" velocity="67"/>
+      <Note pitch="54" beat="16.5" length="0.25" velocity="58"/>
+      <Note pitch="60" beat="16.5" length="0.25" velocity="58"/>
+      <Note pitch="70" beat="16.875" length="0.125" velocity="64"/>
+      <Note pitch="66" beat="17.0" length="0.3552083333333336" velocity="66"/>
+      <Note pitch="71" beat="17.0" length="0.3552083333333336" velocity="66"/>
+      <Note pitch="50" beat="17.0" length="0.25" velocity="56"/>
+      <Note pitch="54" beat="17.0" length="0.25" velocity="56"/>
+      <Note pitch="62" beat="17.0" length="0.25" velocity="56"/>
+      <Note pitch="71" beat="17.375" length="0.125" velocity="63"/>
+      <Note pitch="64" beat="17.5" length="0.3552083333333336" velocity="70"/>
+      <Note pitch="73" beat="17.5" length="0.3552083333333336" velocity="70"/>
+      <Note pitch="47" beat="17.5" length="0.25" velocity="58"/>
+      <Note pitch="56" beat="17.5" length="0.25" velocity="58"/>
+      <Note pitch="74" beat="17.875" length="0.125" velocity="78"/>
+      <Note pitch="66" beat="18.0" length="0.234375" velocity="61"/>
+      <Note pitch="73" beat="18.0" length="0.234375" velocity="61"/>
+      <Note pitch="49" beat="18.0" length="0.25" velocity="54"/>
+      <Note pitch="57" beat="18.0" length="0.25" velocity="54"/>
+      <Note pitch="78" beat="18.5" length="0.125" velocity="51"/>
+      <Note pitch="49" beat="18.5" length="0.5083333333333329" velocity="55"/>
+      <Note pitch="59" beat="18.5" length="0.5083333333333329" velocity="55"/>
+      <Note pitch="73" beat="18.625" length="0.234375" velocity="49"/>
+      <Note pitch="65" beat="18.875" length="0.125" velocity="49"/>
+      <Note pitch="66" beat="19.0" length="0.25" velocity="64"/>
+      <Note pitch="54" beat="19.0" length="0.828125" velocity="60"/>
+      <Note pitch="58" beat="19.0" length="0.828125" velocity="60"/>
+      <Note pitch="68" beat="19.375" length="0.125" velocity="59"/>
+      <Note pitch="70" beat="19.5" length="0.234375" velocity="74"/>
+      <Note pitch="72" beat="19.875" length="0.125" velocity="70"/>
+      <Note pitch="51" beat="19.875" length="0.125" velocity="74"/>
+      <Note pitch="56" beat="19.875" length="0.125" velocity="74"/>
+      <Note pitch="73" beat="20.0" length="0.234375" velocity="89"/>
+      <Note pitch="49" beat="20.0" length="0.234375" velocity="86"/>
+      <Note pitch="58" beat="20.0" length="0.234375" velocity="86"/>
+      <Note pitch="78" beat="20.375" length="0.125" velocity="77"/>
+      <Note pitch="73" beat="20.5" length="0.234375" velocity="72"/>
+      <Note pitch="49" beat="20.5" length="0.25" velocity="79"/>
+      <Note pitch="59" beat="20.5" length="0.25" velocity="79"/>
+      <Note pitch="61" beat="20.875" length="0.125" velocity="74"/>
+      <Note pitch="66" beat="21.0" length="0.234375" velocity="97"/>
+      <Note pitch="54" beat="21.0" length="0.25" velocity="75"/>
+      <Note pitch="56" beat="21.0" length="0.25" velocity="75"/>
+      <Note pitch="68" beat="21.5" length="0.125" velocity="74"/>
+      <Note pitch="69" beat="21.625" length="0.234375" velocity="86"/>
+      <Note pitch="72" beat="21.875" length="0.125" velocity="90"/>
+      <Note pitch="51" beat="21.875" length="0.125" velocity="80"/>
+      <Note pitch="56" beat="21.875" length="0.125" velocity="80"/>
+      <Note pitch="73" beat="22.0" length="0.234375" velocity="88"/>
+      <Note pitch="49" beat="22.0" length="0.234375" velocity="84"/>
+      <Note pitch="58" beat="22.0" length="0.234375" velocity="84"/>
+      <Note pitch="78" beat="22.375" length="0.125" velocity="72"/>
+      <Note pitch="72" beat="22.5" length="0.234375" velocity="67"/>
+      <Note pitch="49" beat="22.5" length="0.25" velocity="76"/>
+      <Note pitch="59" beat="22.5" length="0.25" velocity="76"/>
+      <Note pitch="61" beat="22.875" length="0.125" velocity="72"/>
+      <Note pitch="66" beat="23.0" length="0.1520833333333336" velocity="87"/>
+      <Note pitch="54" beat="23.0" length="0.5083333333333329" velocity="68"/>
+      <Note pitch="58" beat="23.0" length="0.5083333333333329" velocity="68"/>
+      <Note pitch="69" beat="23.16458333333333" length="0.1677083333333336"
+            velocity="81"/>
+      <Note pitch="70" beat="23.33229166666667" length="0.1677083333333336"
+            velocity="73"/>
+      <Note pitch="71" beat="23.5" length="0.1645833333333329" velocity="71"/>
+      <Note pitch="50" beat="23.5" length="0.4729166666666664" velocity="63"/>
+      <Note pitch="57" beat="23.5" length="0.4729166666666664" velocity="63"/>
+      <Note pitch="72" beat="23.66458333333333" length="0.1677083333333336"
+            velocity="68"/>
+      <Note pitch="73" beat="23.83229166666667" length="0.15625" velocity="61"/>
+      <Note pitch="74" beat="24.0" length="0.5" velocity="67"/>
+      <Note pitch="43" beat="24.0" length="0.25" velocity="64"/>
+      <Note pitch="59" beat="24.0" length="0.25" velocity="64"/>
+      <Note pitch="43" beat="24.375" length="0.125" velocity="57"/>
+      <Note pitch="59" beat="24.375" length="0.125" velocity="57"/>
+      <Note pitch="72" beat="24.5" length="0.1645833333333329" velocity="56"/>
+      <Note pitch="50" beat="24.5" length="0.4729166666666664" velocity="53"/>
+      <Note pitch="71" beat="24.66458333333333" length="0.1677083333333336"
+            velocity="55"/>
+      <Note pitch="69" beat="24.83229166666667" length="0.15625" velocity="57"/>
+      <Note pitch="67" beat="25.0" length="0.25" velocity="59"/>
+      <Note pitch="43" beat="25.0" length="0.25" velocity="66"/>
+      <Note pitch="59" beat="25.0" length="0.25" velocity="66"/>
+      <Note pitch="71" beat="25.375" length="0.125" velocity="62"/>
+      <Note pitch="43" beat="25.375" length="0.125" velocity="54"/>
+      <Note pitch="59" beat="25.375" length="0.125" velocity="54"/>
+      <Note pitch="62" beat="25.5" length="0.4729166666666664" velocity="45"/>
+      <Note pitch="50" beat="25.5" length="0.4729166666666664" velocity="57"/>
+      <Note pitch="74" beat="26.0" length="0.5" velocity="75"/>
+      <Note pitch="47" beat="26.0" length="0.25" velocity="75"/>
+      <Note pitch="62" beat="26.0" length="0.25" velocity="75"/>
+      <Note pitch="47" beat="26.375" length="0.125" velocity="56"/>
+      <Note pitch="62" beat="26.375" length="0.125" velocity="56"/>
+      <Note pitch="72" beat="26.5" length="0.1645833333333329" velocity="65"/>
+      <Note pitch="54" beat="26.5" length="0.4729166666666664" velocity="52"/>
+      <Note pitch="71" beat="26.66458333333333" length="0.1677083333333336"
+            velocity="59"/>
+      <Note pitch="69" beat="26.83229166666667" length="0.1677083333333336"
+            velocity="63"/>
+      <Note pitch="68" beat="27.0" length="0.234375" velocity="61"/>
+      <Note pitch="47" beat="27.0" length="0.25" velocity="80"/>
+      <Note pitch="62" beat="27.0" length="0.25" velocity="80"/>
+      <Note pitch="71" beat="27.375" length="0.125" velocity="63"/>
+      <Note pitch="47" beat="27.375" length="0.125" velocity="61"/>
+      <Note pitch="62" beat="27.375" length="0.125" velocity="61"/>
+      <Note pitch="64" beat="27.5" length="0.4729166666666664" velocity="59"/>
+      <Note pitch="54" beat="27.5" length="0.4729166666666664" velocity="61"/>
+      <Note pitch="76" beat="28.0" length="0.5" velocity="86"/>
+      <Note pitch="48" beat="28.0" length="0.25" velocity="90"/>
+      <Note pitch="64" beat="28.0" length="0.25" velocity="90"/>
+      <Note pitch="48" beat="28.375" length="0.125" velocity="64"/>
+      <Note pitch="64" beat="28.375" length="0.125" velocity="64"/>
+      <Note pitch="74" beat="28.5" length="0.1645833333333329" velocity="73"/>
+      <Note pitch="55" beat="28.5" length="0.4729166666666664" velocity="65"/>
+      <Note pitch="72" beat="28.66458333333333" length="0.1677083333333336"
+            velocity="65"/>
+      <Note pitch="71" beat="28.83229166666667" length="0.15625" velocity="61"/>
+      <Note pitch="70" beat="29.0" length="0.25" velocity="61"/>
+      <Note pitch="49" beat="29.0" length="0.25" velocity="75"/>
+      <Note pitch="63" beat="29.0" length="0.25" velocity="75"/>
+      <Note pitch="79" beat="29.375" length="0.125" velocity="54"/>
+      <Note pitch="49" beat="29.375" length="0.125" velocity="54"/>
+      <Note pitch="63" beat="29.375" length="0.125" velocity="54"/>
+      <Note pitch="67" beat="29.5" length="0.828125" velocity="44"/>
+      <Note pitch="59" beat="29.5" length="0.828125" velocity="56"/>
+      <Note pitch="50" beat="30.0" length="0.375" velocity="37"/>
+      <Note pitch="71" beat="30.375" length="0.125" velocity="41"/>
+      <Note pitch="62" beat="30.375" length="0.125" velocity="48"/>
+      <Note pitch="60" beat="30.5" length="0.4729166666666664" velocity="34"/>
+      <Note pitch="66" beat="30.5" length="0.4729166666666664" velocity="34"/>
+      <Note pitch="50" beat="30.5" length="1.421875" velocity="34"/>
+      <Note pitch="62" beat="31.16458333333333" length="0.1677083333333336"
+            velocity="58"/>
+      <Note pitch="66" beat="31.33229166666667" length="0.1677083333333336"
+            velocity="72"/>
+      <Note pitch="67" beat="31.5" length="0.1645833333333329" velocity="62"/>
+      <Note pitch="71" beat="31.66458333333333" length="0.1677083333333336"
+            velocity="69"/>
+      <Note pitch="73" beat="31.83229166666667" length="0.1677083333333336"
+            velocity="65"/>
+      <Note pitch="74" beat="32.0" length="0.4729166666666629" velocity="66"/>
+      <Note pitch="43" beat="32.0" length="0.25" velocity="69"/>
+      <Note pitch="59" beat="32.0" length="0.25" velocity="69"/>
+      <Note pitch="59" beat="32.375" length="0.125" velocity="51"/>
+      <Note pitch="75" beat="32.5" length="0.1645833333333329" velocity="65"/>
+      <Note pitch="48" beat="32.5" length="0.4729166666666629" velocity="58"/>
+      <Note pitch="54" beat="32.5" length="0.4729166666666629" velocity="58"/>
+      <Note pitch="76" beat="32.66458333333333" length="0.16770833333333"
+            velocity="58"/>
+      <Note pitch="81" beat="32.83229166666666" length="0.1677083333333371"
+            velocity="67"/>
+      <Note pitch="74" beat="33.0" length="0.15208333333333" velocity="49"/>
+      <Note pitch="43" beat="33.0" length="0.25" velocity="68"/>
+      <Note pitch="59" beat="33.0" length="0.25" velocity="68"/>
+      <Note pitch="62" beat="33.16458333333333" length="0.16770833333333"
+            velocity="45"/>
+      <Note pitch="66" beat="33.33229166666666" length="0.1677083333333371"
+            velocity="62"/>
+      <Note pitch="67" beat="33.5" length="0.1645833333333329" velocity="64"/>
+      <Note pitch="71" beat="33.66458333333333" length="0.16770833333333"
+            velocity="67"/>
+      <Note pitch="73" beat="33.83229166666666" length="0.15625" velocity="67"/>
+      <Note pitch="74" beat="34.0" length="0.5" velocity="65"/>
+      <Note pitch="43" beat="34.0" length="0.25" velocity="53"/>
+      <Note pitch="59" beat="34.0" length="0.25" velocity="53"/>
+      <Note pitch="59" beat="34.375" length="0.125" velocity="52"/>
+      <Note pitch="74" beat="34.5" length="0.1645833333333329" velocity="62"/>
+      <Note pitch="48" beat="34.5" length="0.4729166666666629" velocity="58"/>
+      <Note pitch="54" beat="34.5" length="0.4729166666666629" velocity="58"/>
+      <Note pitch="76" beat="34.66458333333333" length="0.16770833333333"
+            velocity="68"/>
+      <Note pitch="83" beat="34.83229166666666" length="0.1677083333333371"
+            velocity="70"/>
+      <Note pitch="74" beat="35.0" length="0.15208333333333" velocity="48"/>
+      <Note pitch="43" beat="35.0" length="0.25" velocity="66"/>
+      <Note pitch="59" beat="35.0" length="0.25" velocity="66"/>
+      <Note pitch="62" beat="35.16458333333333" length="0.16770833333333"
+            velocity="42"/>
+      <Note pitch="66" beat="35.33229166666666" length="0.1677083333333371"
+            velocity="66"/>
+      <Note pitch="67" beat="35.5" length="0.1645833333333329" velocity="65"/>
+      <Note pitch="71" beat="35.66458333333333" length="0.16770833333333"
+            velocity="70"/>
+      <Note pitch="73" beat="35.83229166666666" length="0.15625" velocity="64"/>
+      <Note pitch="74" beat="36.0" length="0.5" velocity="69"/>
+      <Note pitch="43" beat="36.0" length="0.25" velocity="60"/>
+      <Note pitch="59" beat="36.0" length="0.25" velocity="60"/>
+      <Note pitch="59" beat="36.375" length="0.125" velocity="62"/>
+      <Note pitch="73" beat="36.5" length="0.1645833333333329" velocity="69"/>
+      <Note pitch="48" beat="36.5" length="0.234375" velocity="65"/>
+      <Note pitch="54" beat="36.5" length="0.234375" velocity="65"/>
+      <Note pitch="76" beat="36.66458333333333" length="0.16770833333333"
+            velocity="81"/>
+      <Note pitch="81" beat="36.83229166666666" length="0.15625" velocity="97"/>
+      <Note pitch="74" beat="37.0" length="0.1645833333333329" velocity="74"/>
+      <Note pitch="43" beat="37.0" length="0.25" velocity="79"/>
+      <Note pitch="59" beat="37.0" length="0.25" velocity="79"/>
+      <Note pitch="75" beat="37.16458333333333" length="0.16770833333333"
+            velocity="95"/>
+      <Note pitch="83" beat="37.33229166666666" length="0.15625" velocity="118"/>
+      <Note pitch="59" beat="37.375" length="0.125" velocity="85"/>
+      <Note pitch="74" beat="37.5" length="0.1645833333333329" velocity="80"/>
+      <Note pitch="48" beat="37.5" length="0.234375" velocity="92"/>
+      <Note pitch="55" beat="37.5" length="0.234375" velocity="92"/>
+      <Note pitch="58" beat="37.5" length="0.234375" velocity="92"/>
+      <Note pitch="75" beat="37.66458333333333" length="0.16770833333333"
+            velocity="101"/>
+      <Note pitch="87" beat="37.83229166666666" length="0.15625" velocity="119"/>
+      <Note pitch="62" beat="38.16458333333333" length="0.16770833333333"
+            velocity="37"/>
+      <Note pitch="66" beat="38.33229166666666" length="0.1677083333333371"
+            velocity="39"/>
+      <Note pitch="67" beat="38.5" length="0.1645833333333329" velocity="43"/>
+      <Note pitch="71" beat="38.66458333333333" length="0.16770833333333"
+            velocity="40"/>
+      <Note pitch="72" beat="38.83229166666666" length="0.1677083333333371"
+            velocity="44"/>
+      <Note pitch="73" beat="39.0" length="0.1645833333333329" velocity="39"/>
+      <Note pitch="74" beat="39.16458333333333" length="0.16770833333333"
+            velocity="44"/>
+      <Note pitch="75" beat="39.33229166666666" length="0.1677083333333371"
+            velocity="51"/>
+      <Note pitch="83" beat="39.33229166666666" length="0.1677083333333371"
+            velocity="51"/>
+      <Note pitch="38" beat="39.33229166666666" length="0.1677083333333371"
+            velocity="41"/>
+      <Note pitch="71" beat="39.5" length="0.234375" velocity="36"/>
+      <Note pitch="79" beat="39.5" length="0.234375" velocity="36"/>
+      <Note pitch="43" beat="39.5" length="0.25" velocity="39"/>
+    </MidiBlock>
+  </MidiTrack>
+  <AudioTrack id="1037"/>
+</Music>

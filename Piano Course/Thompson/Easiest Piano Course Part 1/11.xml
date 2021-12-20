@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Music creationTime="20 Dec 2021 11:07:04" lastModifiedTime="1 Jan 1970 8:00:00">
+  <TempoTrack>
+    <Tempo startBeat="0.0" bpm="88.00002346667291"/>
+    <TimeSig startBeat="0.0" sigBeat="2" sigBeatsType="4"/>
+  </TempoTrack>
+  <PitchTrack>
+    <Pitch startBeat="0.0" pitch="60"/>
+  </PitchTrack>
+  <MarkerTrack id="1015" name="&#26631;&#35760;"/>
+  <ChordTrack name="&#26609;&#24335;&#21644;&#24358;&#36827;&#34892;" id="1069"/>
+  <MidiTrack id="1020" name="&#22768;&#23398;&#38050;&#29748;">
+    <MidiBlock name="&#22768;&#23398;&#38050;&#29748;" length="10.909088" id="1079"
+               startBeat="0.0">
+      <Note pitch="57" beat="0.0" length="1.0" velocity="81"/>
+      <Note pitch="59" beat="1.0" length="1.0" velocity="77"/>
+      <Note pitch="60" beat="2.0" length="2.0" velocity="82"/>
+      <Note pitch="60" beat="4.0" length="1.0" velocity="81"/>
+      <Note pitch="59" beat="5.0" length="1.0" velocity="76"/>
+      <Note pitch="57" beat="6.0" length="2.0" velocity="79"/>
+      <Note pitch="60" beat="8.0" length="1.0" velocity="81"/>
+      <Note pitch="62" beat="9.0" length="1.0" velocity="77"/>
+      <Note pitch="64" beat="10.0" length="2.0" velocity="83"/>
+      <Note pitch="64" beat="12.0" length="1.0" velocity="81"/>
+      <Note pitch="62" beat="13.0" length="1.0" velocity="75"/>
+      <Note pitch="60" beat="14.0" length="2.0" velocity="79"/>
+    </MidiBlock>
+  </MidiTrack>
+  <AudioTrack id="1037"/>
+</Music>

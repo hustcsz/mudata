@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Music creationTime="20 Dec 2021 11:09:07" lastModifiedTime="1 Jan 1970 8:00:00">
+  <TempoTrack>
+    <Tempo startBeat="0.0" bpm="96.0"/>
+    <TimeSig startBeat="0.0" sigBeat="2" sigBeatsType="4"/>
+  </TempoTrack>
+  <PitchTrack>
+    <Pitch startBeat="0.0" pitch="60"/>
+  </PitchTrack>
+  <MarkerTrack id="1015" name="&#26631;&#35760;"/>
+  <ChordTrack name="&#26609;&#24335;&#21644;&#24358;&#36827;&#34892;" id="1069"/>
+  <MidiTrack id="1020" name="&#22768;&#23398;&#38050;&#29748;">
+    <MidiBlock name="&#22768;&#23398;&#38050;&#29748;" length="15.0" id="1079"
+               startBeat="0.0">
+      <Note pitch="60" beat="0.0" length="1.0" velocity="81"/>
+      <Note pitch="64" beat="1.0" length="1.0" velocity="78"/>
+      <Note pitch="67" beat="2.0" length="2.0" velocity="84"/>
+      <Note pitch="67" beat="4.0" length="0.5" velocity="81"/>
+      <Note pitch="65" beat="4.5" length="0.5" velocity="75"/>
+      <Note pitch="64" beat="5.0" length="0.5" velocity="74"/>
+      <Note pitch="62" beat="5.5" length="0.5" velocity="72"/>
+      <Note pitch="60" beat="6.0" length="2.0" velocity="74"/>
+      <Note pitch="62" beat="8.0" length="0.5" velocity="81"/>
+      <Note pitch="62" beat="8.5" length="0.5" velocity="76"/>
+      <Note pitch="59" beat="9.0" length="0.5" velocity="73"/>
+      <Note pitch="55" beat="9.5" length="0.5" velocity="69"/>
+      <Note pitch="67" beat="10.0" length="0.5" velocity="81"/>
+      <Note pitch="67" beat="10.5" length="0.5" velocity="76"/>
+      <Note pitch="64" beat="11.0" length="0.5" velocity="73"/>
+      <Note pitch="60" beat="11.5" length="0.5" velocity="69"/>
+      <Note pitch="62" beat="12.0" length="0.5" velocity="82"/>
+      <Note pitch="62" beat="12.5" length="0.5" velocity="77"/>
+      <Note pitch="59" beat="13.0" length="0.5" velocity="73"/>
+      <Note pitch="55" beat="13.5" length="0.5" velocity="69"/>
+      <Note pitch="67" beat="14.0" length="0.5" velocity="82"/>
+      <Note pitch="67" beat="14.5" length="0.5" velocity="77"/>
+      <Note pitch="64" beat="15.0" length="0.5" velocity="73"/>
+      <Note pitch="60" beat="15.5" length="0.5" velocity="69"/>
+      <Note pitch="60" beat="16.0" length="0.5" velocity="75"/>
+      <Note pitch="48" beat="16.0" length="0.5" velocity="79"/>
+      <Note pitch="62" beat="16.5" length="0.5" velocity="76"/>
+      <Note pitch="50" beat="16.5" length="0.5" velocity="76"/>
+      <Note pitch="64" beat="17.0" length="0.5" velocity="80"/>
+      <Note pitch="52" beat="17.0" length="0.5" velocity="78"/>
+      <Note pitch="65" beat="17.5" length="0.5" velocity="81"/>
+      <Note pitch="53" beat="17.5" length="0.5" velocity="79"/>
+      <Note pitch="67" beat="18.0" length="2.0" velocity="88"/>
+      <Note pitch="55" beat="18.0" length="2.0" velocity="87"/>
+      <Note pitch="67" beat="20.0" length="0.5" velocity="82"/>
+      <Note pitch="55" beat="20.0" length="0.5" velocity="82"/>
+      <Note pitch="65" beat="20.5" length="0.5" velocity="75"/>
+      <Note pitch="53" beat="20.5" length="0.5" velocity="75"/>
+      <Note pitch="64" beat="21.0" length="0.5" velocity="74"/>
+      <Note pitch="52" beat="21.0" length="0.5" velocity="74"/>
+      <Note pitch="62" beat="21.5" length="0.5" velocity="72"/>
+      <Note pitch="50" beat="21.5" length="0.5" velocity="73"/>
+      <Note pitch="60" beat="22.0" length="2.0" velocity="74"/>
+      <Note pitch="48" beat="22.0" length="2.0" velocity="76"/>
+    </MidiBlock>
+  </MidiTrack>
+  <AudioTrack id="1037"/>
+</Music>
